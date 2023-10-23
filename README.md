@@ -1,6 +1,8 @@
 # Godot-Projects
-This is where I'll start uploading my Godot Projects in preparation for the CS³ Game Development Club's main project - a 2D Isometric Game
-========================================
+This is where I'll start uploading my Godot Projects in preparation for the CS³ Game Development Club's main project - 
+
+a 2D Isometric Game
+===
 Godot is the primary game engine the club will use, as Unity has proven that they cannot be trusted. Despite their (former) CEO stepping down, the trust has been broken and will take a few more years to be rebuilt.
 
 For now, I'll be researching on how to use Godot 4.X.X's features to practice using Godot as a game engine. It's my first time using a game engine in 3 years and this is vastly different from the bare knowledge I got from using Unity.
